@@ -1,3 +1,9 @@
+/*
+Data Exploration - Covid 19 Data - SQL Server
+Skills Used- Joins, CTE's, Temp Tables, Windows Functions, Aggregate Function, Creating Views, Converting Data Types
+
+*/
+
 SELECT *
 FROM PortfolioProject.[dbo].CovidDeaths$
 Order by 3, 4
